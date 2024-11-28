@@ -1,10 +1,8 @@
 # Sahan Sandeepa 
 
-![Cloud Architect](https://img.shields.io/badge/Cloud%20Architect-AWS%2C%20Azure%2C%20GCP-blue)
-
 ## About Me
 
-- 🎓 I'm a undergraduate student
+- 🎓 I'm an undergraduate student
 - 🛠️ Aspiring to become an IT professional who excels in challenging situations.
 - 💻 My coding preferences include Python, Jupyter, and R.
 - 🌐 I'm passionate about data analytics technologies and machine learning.
