@@ -1,10 +1,10 @@
-# KD Jayakody
+# SS Ellawala
 
 ![Cloud Architect](https://img.shields.io/badge/Cloud%20Architect-AWS%2C%20Azure%2C%20GCP-blue)
 
 ## About Me
 
-- 🎓 I'm a Cloud Architect with expertise in AWS, Azure, and GCP.
+- 🎓 I'm a Data Science Student at Sltc.
 - 🛠️ I enjoy building scalable and resilient cloud-based solutions.
 - 💻 My coding preferences include Python, Go, and TypeScript.
 - 🌐 I'm passionate about web technologies and modern software architectures.
