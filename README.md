@@ -1,9 +1,9 @@
-# SS Ellawala
+Group Project for CCS3342-Business Intelligence (Business Analytics).
+Assignment 01.
 
-
-## About Me
-
-- 🎓 I'm a Data Science Student at Sltc.
-- 🛠️ I enjoy building scalable and resilient cloud-based solutions.
-- 💻 My coding preferences include Python, Go, and TypeScript.
-
+Group Members
+22UG2-0570- SAHAN SANDEEPA
+22UG2-0244- SATHIRA GURUGE
+22UG2-0210- WATHSULA EKANAYAKE
+22UG2-0559- ASINDU WICKRAMASINGHA
+22UG1-0447- J.A.S.S. PERERA
